@@ -1,0 +1,2 @@
+# Unveiling-employee-departures-a-neural-network-exploration-of-attrition-causes
+The Employee Attrition Analysis project uses machine learning to explore factors influencing employee turnover. Analyzing the dataset, we perform data preprocessing and exploratory analysis, followed by building models like MLP, CNN, and ANN. The goal is to identify key attrition drivers and enhance employee retention strategies.
